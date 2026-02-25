@@ -6,7 +6,7 @@
     ,' ,'            :            ', ',    Sistema de Gestão de Leitores e Livros
    ,' ,'             :             ', ',   Prova de Monitoria de FuP
   ,' ,'              :              ', ',  Discente: Arthur Nunes
- ,' ,'............., : ,.............', ', Docente: Dra. Valéria Lelli
+ ,' ,'............., : ,.............', ', Docente: Dra. Valéria Leitão
 ,'  '............   '.'   ............'  ',
  '''''''''''''''''';''';''''''''''''''''''
                     '''
