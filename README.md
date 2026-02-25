@@ -1,5 +1,17 @@
 # Sistema de Gestão de Leitores e Livros
 
+```
+         ,..........   ..........,
+     ,..,'          '.'          ',..,
+    ,' ,'            :            ', ',    Sistema de Gestão de Leitores e Livros
+   ,' ,'             :             ', ',   Prova de Monitoria de FuP
+  ,' ,'              :              ', ',  Discente: Arthur Nunes
+ ,' ,'............., : ,.............', ', Docente: Dra. Valéria Lelli
+,'  '............   '.'   ............'  ',
+ '''''''''''''''''';''';''''''''''''''''''
+                    '''
+```
+
 Sistema em Python para gerenciamento de leitores e livros lidos, com menu interativo e suíte completa de testes automatizados usando pytest.
 
 ## Contexto da Prova de Monitoria
